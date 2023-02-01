@@ -1,4 +1,3 @@
 # funcoes-back-end
 
-Javascript
-Node.js
+Exercícios praticados em 28/09/2022, utilizando Javascript/Node.js
